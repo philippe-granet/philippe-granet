@@ -21,7 +21,7 @@ Passionné par le développement logiciel et l'automatisation, je travaille cour
 ---
 
 ## 📊 Statistiques GitHub  
-![Philippe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=philippe-granet&show_icons=true&theme=radical)
+![Philippe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=philippe-granet&show_icons=truel)
 
 ---
 
